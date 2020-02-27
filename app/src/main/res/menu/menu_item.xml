@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+    android:id="@+id/StoryBookId"
+    android:title="STORY BOOK"
+    app:showAsAction="never">
+
+        <menu>
+            <item
+                android:id="@+id/MAGAZINEBOOKId0"
+                android:title="MAGAZINE BOOK"
+                app:showAsAction="never"
+                />
+        </menu>
+</item>
+    <item
+    android:id="@+id/MAGAZINEBOOKId"
+    android:title="MAGAZINE BOOK"
+    app:showAsAction="never"
+/>
+    <item
+    android:id="@+id/POETRYBOOKId"
+    android:title="POETRY BOOK"
+    app:showAsAction="never"
+/>
+    <item
+    android:id="@+id/NOBELBOOKId"
+    android:title="NOBEL BOOK"
+    app:showAsAction="never"
+/>
+    <item
+    android:id="@+id/MYSTERYBOOKId"
+    android:title="MYSTERY BOOK"
+    app:showAsAction="never"
+/>
+    <item
+    android:id="@+id/SCIENCEFICTIONBOOKId"
+    android:title="SCIENCE FICTION BOOK(SCI_Fi)"
+    app:showAsAction="never"
+/>
+    <item
+    android:id="@+id/ROMANCEBOOKId"
+    android:title="ROMANCE BOOK"
+    app:showAsAction="never"
+/>
+</menu>
